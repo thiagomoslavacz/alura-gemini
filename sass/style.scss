@@ -1,5 +1,5 @@
-$primary-color: #e8e3e8;
-$second-color: #324f69;
+@charset "UTF-8";
+@import "variables";
 
 * {
   margin: 0;
@@ -137,3 +137,5 @@ footer {
     color: gray;
   }
 }
+
+@import "media-querie";
